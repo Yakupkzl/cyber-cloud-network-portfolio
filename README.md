@@ -2,7 +2,7 @@
 
 Dit repository bevat mijn persoonlijke **hands-on projectportfolio** gericht op
 **Cybersecurity, Cloud, Networking en Dev(Sec)Ops**.  
-De projecten zijn opgezet om **praktijkervaring aan te tonen** op HBO-niveau
+De projecten zijn opgezet om **praktijkervaring aan te tonen** 
 en sluiten aan bij **junior IT-rollen** in Nederland.
 
 ## Doel van dit portfolio
